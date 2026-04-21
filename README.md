@@ -1,20 +1,21 @@
-[README.md](https://github.com/user-attachments/files/26947789/README.md)
-# Fundamentals-of-Image-Processing---SU# Fundamentals of Image Processing — Laboratory Works
+# Fundamentals of Image Processing — Laboratory Works
 
 **Student:** Arafat Islam  
 **University:** Sorbonne University  
 **Course:** Fundamentals of Image Processing  
 **Track / Program:** IMA  
 
----
+<img width="1790" height="990" alt="image" src="https://github.com/user-attachments/assets/4bb9aa8d-87d2-45b1-9681-3310c48605b5" />
+
 
 ## Overview
 
-This repository contains my laboratory work for the **Fundamentals of Image Processing** course at **Sorbonne University**. The practical sessions cover the main foundations of modern image processing, from basic image manipulation to frequency analysis, filtering, edge and corner detection, segmentation, content-based image retrieval, and face recognition.
+This repository contains my laboratory work for the **Fundamentals of Image Processing** course at **Sorbonne University**. The practical sessions cover the main foundations of modern image processing, from basic image manipulation to frequency analysis, filtering edge and corner detection, segmentation, content-based image retrieval and face recognition.
 
 The work is organized as a collection of Jupyter notebooks. Each notebook corresponds to one lab session, except the last notebook which combines **Labs 9 and 10**.
 
----
+<img width="1965" height="789" alt="image" src="https://github.com/user-attachments/assets/46cbc517-4de8-48e3-860a-ade5508a95bf" />
+
 
 ## Repository Contents
 
@@ -31,7 +32,8 @@ The work is organized as a collection of Jupyter notebooks. Each notebook corres
 └── ima_lab_9_10_Arafat.ipynb
 ```
 
----
+<img width="2249" height="790" alt="image" src="https://github.com/user-attachments/assets/35511a89-1d26-495d-a5a9-c876c9fb631b" />
+
 
 ## Lab Summary
 
@@ -143,7 +145,8 @@ The final notebook combines two practical sessions on **face recognition** using
 - Identification by nearest neighbor in Eigenface space
 - Face vs non-face classification using reconstruction error
 
----
+<img width="1780" height="593" alt="image" src="https://github.com/user-attachments/assets/5a2eeadf-8f9c-4217-819a-8ec9a3fb4168" />
+
 
 ## Learning Outcomes
 
