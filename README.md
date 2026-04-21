@@ -174,36 +174,6 @@ The notebooks mainly rely on the following Python libraries:
 
 Depending on the notebook, additional helper libraries may also be used for numerical operations and image display.
 
----
-
-## How to Run
-
-### 1. Install dependencies
-
-```bash
-pip install numpy matplotlib scipy pillow jupyter
-```
-
-### 2. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 3. Open the notebook you want to run
-For example:
-
-```bash
-jupyter notebook ima_lab_1_Arafat.ipynb
-```
-
-or
-
-```bash
-jupyter notebook ima_lab_9_10_Arafat.ipynb
-```
-
----
 
 ## Notes
 
