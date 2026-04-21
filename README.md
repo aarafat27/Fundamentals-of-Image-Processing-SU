@@ -1,6 +1,5 @@
 # Fundamentals of Image Processing — Laboratory Works
-
-**Student:** Arafat Islam  
+ 
 **University:** Sorbonne University  
 **Course:** Fundamentals of Image Processing  
 **Track / Program:** IMA  
@@ -155,8 +154,8 @@ Through these laboratory works, the following skills were developed:
 - Practical manipulation of grayscale and color images
 - Understanding of image representation in spatial and frequency domains
 - Implementation of core image processing algorithms from scratch
-- Analysis of enhancement, filtering, and sampling effects
-- Detection of edges, corners, and segmented regions
+- Analysis of enhancement, filtering and sampling effects
+- Detection of edges, corners and segmented regions
 - Construction of simple visual descriptors for image retrieval
 - Application of dimensionality reduction to face recognition
 
@@ -176,23 +175,11 @@ Depending on the notebook, additional helper libraries may also be used for nume
 
 
 ## Notes
-
 - Some notebooks use external image files or datasets expected to be present in the working environment.
 - Labs 9 and 10 are grouped together in a single notebook.
 - The notebooks contain both code and written comments explaining the methodology and observed results.
 
----
 
 ## Conclusion
 
-This collection of laboratory works presents a progressive exploration of the main concepts of image processing. Starting from image enhancement and Fourier analysis, the course advances toward filtering, feature detection, segmentation, retrieval, and recognition.
-
-Taken together, these notebooks form a practical portfolio of classical image processing methods and illustrate how theoretical concepts can be translated into concrete implementations in Python.
-
----
-
-## Author
-
-**Arafat Islam**  
-Sorbonne University  
-Fundamentals of Image Processing
+This collection of laboratory works presents a progressive exploration of the main concepts of image processing. Starting from image enhancement and Fourier analysis, the course advances toward filtering, feature detection, segmentation, retrieval and recognition. Taken together, these notebooks form a practical portfolio of classical image processing methods and illustrate how theoretical concepts can be translated into concrete implementations in Python.
